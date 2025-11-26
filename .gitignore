@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Vercel
+.vercel/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS / Cache
+*.log
+.DS_Store
+Thumbs.db
+
+# npm debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: if you experiment with lock switching
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Don't push personal files accidentally
+*.pdf
+*.docx
+*.zip
