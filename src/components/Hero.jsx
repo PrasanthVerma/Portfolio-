@@ -16,7 +16,7 @@ export default function Hero() {
         >
           <div className="inline-flex items-center gap-2 rounded-full border border-slate-700/80 bg-slate-900/70 px-3 py-1 text-xs text-slate-200 shadow shadow-slate-950/60">
             <span className="inline-flex h-2 w-2 rounded-full bg-emerald-400" />
-            Open to internships & fresh roles
+            Open to Fresher Roles
           </div>
 
           <div>
